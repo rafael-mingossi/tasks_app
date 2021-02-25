@@ -4,6 +4,7 @@ import { ScrollView, View } from "react-native";
 import styles from "./styles";
 import Header from "./components/Header";
 import SingleTask from "./components/SingleTask";
+import MenuModal from "./components/MenuModal";
 
 const App = () => {
   return (
